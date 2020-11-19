@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848914262037",
+    "firebase_url": "https://stock-trends-rn.firebaseio.com",
+    "project_id": "stock-trends-rn",
+    "storage_bucket": "stock-trends-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848914262037:android:0c7fa4edecdd2ab11fc61c",
+        "android_client_info": {
+          "package_name": "com.stocktrends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848914262037-d6ggdlkvlv5urkn7trccu0apjtgfv79e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCkyA1YQP5S-HnEyhp6rXT-2gsuXLXWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848914262037-d6ggdlkvlv5urkn7trccu0apjtgfv79e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
